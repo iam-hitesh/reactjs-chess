@@ -1,7 +1,7 @@
 ##### Dependencies that was added to the app
 (A React-Redux based application)
 - React
-- Redux
+- Chessboard
 
 
 ### Quick Start
